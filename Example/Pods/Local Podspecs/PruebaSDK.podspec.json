@@ -1,0 +1,22 @@
+{
+  "name": "PruebaSDK",
+  "version": "0.1.0",
+  "summary": "A short description of PruebaSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andres.amdc@gmail.com/PruebaSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andres.amdc@gmail.com": "andres.amdc@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andres.amdc@gmail.com/PruebaSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PruebaSDK/Classes/**/*"
+}

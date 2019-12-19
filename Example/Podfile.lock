@@ -1,0 +1,16 @@
+PODS:
+  - PruebaSDK (0.1.0)
+
+DEPENDENCIES:
+  - PruebaSDK (from `../`)
+
+EXTERNAL SOURCES:
+  PruebaSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PruebaSDK: ab78d344c64633c04431e7583cb805d6a3c6444b
+
+PODFILE CHECKSUM: e561afb64103322ae3be558730d0c9c5228001db
+
+COCOAPODS: 1.5.0
